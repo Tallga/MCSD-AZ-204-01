@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entities.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Entities/1.0.0": {
-      "type": "project",
-      "path": "../Entities/Entities.csproj",
-      "msbuildProject": "../Entities/Entities.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Entities >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Fatih\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj",
-      "projectName": "WorkSpace",
-      "projectPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj",
+      "projectUniqueName": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Business\\Business.csproj",
+      "projectName": "Business",
+      "projectPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\obj\\",
+      "outputPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,11 +37,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

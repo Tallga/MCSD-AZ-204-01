@@ -6,3 +6,5 @@
 
 * Herhangi bir tip bölümünün üzerine tıklatıp F1 tuşuna basarsak, o tip ile ilgili microsoft docs. sayfasına yönlenebiliriz.
 
+* Prop oluştururken prop yazdıktan sonra 2 kere tab tuşuna basarsak, otomatik olarak property oluşmuş olur.
+

@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "WorkSpace/1.0.0": {
-        "dependencies": {
-          "Entities": "1.0.0"
-        },
-        "runtime": {
-          "WorkSpace.dll": {}
-        }
-      },
       "Entities/1.0.0": {
         "runtime": {
           "Entities.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "WorkSpace/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
