@@ -6,8 +6,30 @@ namespace WorkSpace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba WorkSpace!");
-            Console.WriteLine("Bu ilk uygulamamız!");
+
+            string message = "Merhaba Dünya!";
+            double money = 100000; //Veritabanında gelecek.
+            int accountBalance = 99;
+            bool isLogin = true;
+            bool isCompleted = false;
+
+
+            Console.WriteLine(1000 * 1.92);
+            Console.WriteLine(money * 1.92);
+            Console.WriteLine(money * 1.92);
+
+
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+            Console.WriteLine(message);
+
+
+
             Console.ReadLine();
         }
     }
