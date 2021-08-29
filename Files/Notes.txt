@@ -1,0 +1,5 @@
+* CTRL + K + C : Seçilen satırı açıklama kısmına dönüştürür.
+
+* CTRL + K + U : Seçilen açıklama satırını, geri alır.
+
+* CTRL + R + M : Seçilen satırı yeni metod haline getirir.
