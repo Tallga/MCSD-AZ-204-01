@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj": {}
+    "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj": {}
   },
   "projects": {
-    "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj": {
+    "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\obj\\",
+        "projectPath": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Tolga Şahiner\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tolga Şahiner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -57,25 +58,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj": {
+    "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj",
+        "projectUniqueName": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj",
         "projectName": "WorkSpace",
-        "projectPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj",
-        "packagesPath": "C:\\Users\\Fatih\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\WorkSpace\\obj\\",
+        "projectPath": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\WorkSpace\\WorkSpace.csproj",
+        "packagesPath": "C:\\Users\\Tolga Şahiner\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\WorkSpace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Tolga Şahiner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -88,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Github\\MCSD-AZ-204-01\\CSharpApps\\Entities\\Entities.csproj"
+              "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Github\\MSCD-AZ-204-01-01-01\\CSharpApps\\Entities\\Entities.csproj"
               }
             }
           }
@@ -118,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.206\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
