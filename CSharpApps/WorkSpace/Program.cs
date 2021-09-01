@@ -12,7 +12,6 @@ namespace WorkSpace
             
             //People Class bilgisinden yeni bir kayıt oluşturur.
             People people = new People();
-
             //Parantez içerisindeki ifadeyi ekrana yazar. İmleci ifadenin sonunda bekletir.
             Console.Write("Merhaba ilk uygulama!");
             //Parantez içersindeki ifadeyi ekrana yazar. İmleci ifadenin alt satırında bekletir.
