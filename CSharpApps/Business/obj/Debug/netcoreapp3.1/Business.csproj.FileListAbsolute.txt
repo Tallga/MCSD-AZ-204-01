@@ -1,0 +1,13 @@
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\bin\Debug\netcoreapp3.1\Business.dll
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\bin\Debug\netcoreapp3.1\Business.pdb
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.dll
+E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Business\obj\Debug\netcoreapp3.1\Business.pdb

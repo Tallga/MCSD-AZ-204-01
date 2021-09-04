@@ -16,10 +16,27 @@ namespace WorkSpace
             Console.Write("Merhaba ilk uygulama!");
             //Parantez içersindeki ifadeyi ekrana yazar. İmleci ifadenin alt satırında bekletir.
             Console.WriteLine("Merhaba WorkSpace!");
+            WelcomeMessage();
+            WelcomeMessage();
+            WelcomeMessage();
+            WelcomeMessage();
+           
+            int güncelBakiye = bakiyeGetir();
 
             //Kullanıcıdan bir yanıt bekler.
             Console.ReadLine();
         }
+
+
+        static void WelcomeMessage()
+        {
+            Console.WriteLine("Merhaba, hoşgeldiniz!");
+        }
+        static int bakiyeGetir()
+        {
+            return 55;
+        }
+
 
         private static void Variable()
         {
