@@ -9,7 +9,6 @@ C:\Github\MCSD-AZ-204-01\CSharpApps\Entities\obj\Debug\netcoreapp3.1\Entities.pd
 E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
 E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\bin\Debug\netcoreapp3.1\Entities.dll
 E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
-E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
 E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
 E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
 E:\Github\MSCD-AZ-204-01-01-01\CSharpApps\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
